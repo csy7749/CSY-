@@ -1,0 +1,5 @@
+- OnApplicationPause 游戏进入后台，暂停游戏
+- Screen.sleepTimeout=SleepTimeOut.NeverSleep 禁止屏幕锁屏
+- Unity_帧率设置Application.targetFrameRate
+- scrollRect.onValueChanged. ScrollRect滚动时会产生回调
+- activeHierarchy可以理解为场景中的可见状态。如果某个对象在场景中不可见，对应的activeHierarchy和activeSelf属性一定为false，而该对象的子对象的activeHierarchy也为false,其activeSelf属性却取决于自身的状态，不依赖于父对象。

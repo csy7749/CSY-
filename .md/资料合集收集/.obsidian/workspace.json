@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "1db7d4e608cae72a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f14e8ec92b9bbbbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed1ba304de664925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作杂记/未完成工作.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "de665a2bbfcb74f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点杂记/Unity/API知识点.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b53af639144f6d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "8378513063f5e441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49fbe6c9479a0c27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "383fcff4c7428fa6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3121fb9726d27bf1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3631cf4e252bd53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "090935a2c76897fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "89dd195773872507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c7625aea5196a1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识点杂记/Unity/API知识点.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87b5a24e58240ae8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识点杂记/Unity/API知识点.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bc0020b66dd1b32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52693a3ff7d0b790",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识点杂记/Unity/API知识点.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "de665a2bbfcb74f3",
+  "lastOpenFiles": [
+    "未完成搜集.md",
+    "知识点杂记/Unity/API知识点.md",
+    "学习/学习计划.md",
+    "工作杂记/未完成工作.md",
+    "工具/在线工具/在线工具.md",
+    "anything-about-game/值得一看/核心-战斗.md",
+    "工具/在线工具",
+    "工具",
+    "anything-about-game/值得一看/UnityFramework.md",
+    "知识点杂记/Unity/架构.md",
+    "知识点杂记/obsidian 操作笔记/小技巧.md",
+    "链接地址.md",
+    "anything-about-game/UnityProjectCollection/README.md",
+    "知识点杂记/C Sharp/System.IO.md",
+    "知识点杂记/Unity/编辑器/编辑器知识点杂记.md",
+    "知识点杂记/C Sharp",
+    "工作杂记/热更【打包】【提审】流程.md",
+    "知识点杂记/Unity/编辑器",
+    "知识点杂记/Unity",
+    "工作杂记/在线版本记录.md",
+    "学习",
+    "知识点杂记/obsidian 操作笔记",
+    "未命名.canvas",
+    "anything-about-game/会有用处",
+    "anything-about-game/基础巩固",
+    "anything-about-game/值得一看",
+    "AFK/AFK-战斗-回放.md",
+    "AFK/AFK-战斗-表现.md",
+    "AFK/AFK-SDK接入-自身代码优化.md",
+    "知识点杂记/ios.md",
+    "疑问记录/疑问记录.md"
+  ]
+}
