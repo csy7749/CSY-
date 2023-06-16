@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "3ae37f62c4ab8a3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "51f4a8983d105296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bf26ee4c1259666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "资料合集收集/知识点杂记/日常想法.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "933bd0d8110dcd63",
+    "type": "split",
+    "children": [
+      {
+        "id": "a96e11b9e01b632d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e84fa6fda6284bb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a905d00a38ccc919",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a156169cdb33f4bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1e2503c7eef9049",
+    "type": "split",
+    "children": [
+      {
+        "id": "f16594142066d212",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1b9da007435239d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "资料合集收集/知识点杂记/日常想法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c29dae427e588d02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "资料合集收集/知识点杂记/日常想法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31bc72a3068e41dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19e3410217f109e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "资料合集收集/知识点杂记/日常想法.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2bf26ee4c1259666",
+  "lastOpenFiles": [
+    "资料合集收集/知识点杂记/打包/Android.md",
+    "资料合集收集/知识点杂记/日常想法.md",
+    "Pasted image 20230607134108.png",
+    "资料合集收集/知识点杂记/Unity/UniTask.md",
+    "资料合集收集/小说",
+    "资料合集收集/疑问记录/小说",
+    "资料合集收集/知识点杂记/打包/ios.md",
+    "资料合集收集/知识点杂记/打包",
+    "资料合集收集/学习/SDK/TapTap/内建账户.md",
+    "资料合集收集/学习/SDK/TapTap/排行榜.md",
+    "资料合集收集/anything-about-game/UnityProjectCollection/README.md",
+    "资料合集收集/anything-about-game/博主汇总.md",
+    "资料合集收集/anything-about-game/值得一看/UnityFramework.md",
+    "资料合集收集/anything-about-game/值得一看/核心-战斗.md",
+    "资料合集收集/学习/学习计划.md",
+    "资料合集收集/学习/SDK/TapTap",
+    "资料合集收集/学习/SDK/未命名.md",
+    "资料合集收集/学习/SDK",
+    "资料合集收集/疑问记录/疑问记录.md",
+    "资料合集收集/知识点杂记/Unity/编辑器/编辑器知识点杂记.md",
+    "Pasted image 20230602172805.png",
+    "5ad7060ce007ce4a1204a0103326906.png",
+    "资料合集收集/工作杂记/热更【打包】【提审】流程.md",
+    "资料合集收集/anything-about-game/未命名"
+  ]
+}
